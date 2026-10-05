@@ -166,7 +166,3 @@ Scénarios validés :
 - `https://hotel-lagazelledor.dz/` : Portail principal vitrine et présentation du complexe
 - `https://booking.hotel-lagazelledor.dz/` ou `/booking` : Moteur de réservation autonome
 - `https://admin.hotel-lagazelledor.dz/` ou `/admin` : Console de gestion de la direction et de la réception.
-
-## Branding assets
-- `public/logo.jpeg` — supplied La Gazelle d'Or logo used by the UI logo component.
-- `public/background.jpeg` — supplied cinematic desert background used by the main hero.

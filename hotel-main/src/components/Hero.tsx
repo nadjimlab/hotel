@@ -17,7 +17,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking, onExplore, onSearch }
   return (
     <div className="relative min-h-[92vh] flex flex-col justify-between overflow-hidden bg-[#18120E] text-[#FAF6F0]">
       {/* Aerial Dusk Resort Oasis Background (images.jfif) */}
-      <ResortBackground intensity="vibrant" showOverlay={true} customImageUrl="/background.jpeg" />
+      <ResortBackground intensity="vibrant" showOverlay={true} />
 
       {/* Hero Content */}
       <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 sm:pt-16 md:pt-20 pb-8 sm:pb-12 text-center flex-1 flex flex-col justify-center">
