@@ -1,6 +1,0 @@
-{
-  "name": "La Gazelle d'Or Resort & Spa",
-  "description": "Site officiel et moteur de réservations du complexe hôtelier 5 étoiles La Gazelle d'Or Resort & Spa à El Oued, Algérie. Chambres de luxe, bungalows sahariens, tentes traditionnelles, spa thermal et excursions sahariennes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
